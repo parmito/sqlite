@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rc">
+        <file>android/assets/img/fruits.png</file>
+        <file>android/assets/db/dbSqlite.db</file>
+    </qresource>
+</RCC>
